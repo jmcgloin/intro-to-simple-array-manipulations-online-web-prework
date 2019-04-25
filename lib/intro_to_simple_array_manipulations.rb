@@ -43,5 +43,5 @@ def using_delete(ar, el)
 end
 
 def using_delete_at(ar, num)
-  ar.delete
+  ar.delete_at(num)
 end
