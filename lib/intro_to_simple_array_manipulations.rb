@@ -37,3 +37,7 @@ end
 def using_flatten(ar)
   ar.flatter
 end
+
+def using_delete(ar, el)
+  
+end
