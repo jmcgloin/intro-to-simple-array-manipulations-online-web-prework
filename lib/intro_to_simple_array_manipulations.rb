@@ -27,5 +27,5 @@ def using_concat(ar1, ar2)
 end
 
 def using_insert(ar, el)
-  
+  ar.insert(3,el)
 end
