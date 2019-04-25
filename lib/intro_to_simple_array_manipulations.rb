@@ -39,5 +39,9 @@ def using_flatten(ar)
 end
 
 def using_delete(ar, el)
-  
+  ar.delete(el)
+end
+
+def using_delete_at(ar, num)
+  ar.delete
 end
