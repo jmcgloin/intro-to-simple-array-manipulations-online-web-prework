@@ -30,3 +30,10 @@ def using_insert(ar, el)
   ar.insert(4, el)
 end
 
+def using_uniq(ar)
+  ar.uniq
+end
+
+def using_flatten(ar)
+  ar.flatter
+end
