@@ -35,7 +35,7 @@ def using_uniq(ar)
 end
 
 def using_flatten(ar)
-  ar.flatter
+  ar.flatten
 end
 
 def using_delete(ar, el)
